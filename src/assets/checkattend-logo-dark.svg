@@ -1,0 +1,17 @@
+<svg width="640" height="180" viewBox="0 0 640 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="32" y1="22" x2="152" y2="152" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#4F46E5"/>
+    </linearGradient>
+  </defs>
+  <circle cx="88" cy="90" r="62" stroke="url(#grad)" stroke-width="10"/>
+  <circle cx="88" cy="90" r="38" stroke="#22D3EE" stroke-opacity="0.7" stroke-width="4" stroke-dasharray="8 10"/>
+  <path d="M58 96L77 115L126 63" stroke="url(#grad)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M132 41L146 55L116 85" stroke="#67E8F9" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M88 16V39" stroke="#0F172A" stroke-width="6" stroke-linecap="round"/>
+  <path d="M88 141V164" stroke="#0F172A" stroke-width="6" stroke-linecap="round"/>
+  <path d="M14 90H37" stroke="#0F172A" stroke-width="6" stroke-linecap="round"/>
+  <path d="M139 90H162" stroke="#0F172A" stroke-width="6" stroke-linecap="round"/>
+  <text x="192" y="110" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.5">CheckAttend</text>
+</svg>
